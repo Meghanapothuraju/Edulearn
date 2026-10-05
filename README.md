@@ -40,7 +40,8 @@
 ---
 
 ### To run website
-- git clone https://github.com/HemaSai777/EDULEARN
+- git clone https://github.com/Meghanapothuraju/Edulearn.git
+- cd Edulearn
 - npm install
 - npm start
 
